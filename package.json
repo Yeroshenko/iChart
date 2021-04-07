@@ -1,0 +1,13 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel ./src/index.html -p 5000",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
